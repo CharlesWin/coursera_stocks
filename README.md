@@ -9,9 +9,6 @@ Peer-graded Assignment: Analyzing Historical Stock/Revenue Data and Building a D
 - Question 7 - Sharing your Assignment Notebook - 2 Points
 
 For each problem points will be awarded as follows:
-
-Full Points: Working code that yields correct results
-
-Partial Points: Partially correct code or results
-
-No Points: Did not attempt the problem or did not upload any solution
+- Full Points: Working code that yields correct results
+- Partial Points: Partially correct code or results
+- No Points: Did not attempt the problem or did not upload any solution
